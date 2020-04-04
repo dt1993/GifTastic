@@ -1,0 +1,20 @@
+.searchButton {
+    background-color:#2980b9;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 2px;
+    border-radius: 4px;
+}
+
+.search-form {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding: 50px;
+}
+
+input[type=submit] {
+    background-color:#2980b9;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 4px;
+}
